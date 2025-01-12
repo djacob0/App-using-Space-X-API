@@ -18,3 +18,15 @@ What the app should do:
 
 ---
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# If Babel Plugin Missing, ESLint Configuration Invalid and Sass Deprecation Warnings shows run these
+
+- npm install sass-loader@latest
+
+- npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+- then 
+
+- npm start
+
+
